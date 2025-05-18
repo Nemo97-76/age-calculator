@@ -28,20 +28,11 @@ A simple and efficient application to calculate a person's age based on their bi
 
 ## Usage
 1. Launch the application.
-2. Enter your birth date using the provided input field (e.g., MM/DD/YYYY or similar format).
+2. Enter your birth date using the provided input field.
 3. Click the "Calculate" button to view your age in years, months, and days.
 4. The result will display instantly, with error messages for invalid inputs.
 
-## Contributing
-Contributions are welcome! To contribute:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature`).
-3. Commit your changes (`git commit -m 'Add your feature'`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Open a Pull Request.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For questions or feedback, please open an issue on the [GitHub Issues page](https://github.com/Nemo97-76/age-calculator/issues).
+-**Email**:tasneemyoussef61@gamil.com
+-**Linkedin**:https://www.linkedin.com/in/tasneem-youssef-770708278/
