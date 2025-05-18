@@ -32,7 +32,12 @@ A simple and efficient application to calculate a person's age based on their bi
 3. Click the "Calculate" button to view your age in years, months, and days.
 4. The result will display instantly, with error messages for invalid inputs.
 
+## Live Demo
+open Live Demo
+
+<a href="https://yourage24.netlify.app/">Demo</a>
 
 ## Contact
--**Email**:tasneemyoussef61@gamil.com
--**Linkedin**:https://www.linkedin.com/in/tasneem-youssef-770708278/
+- **Email** : tasneemyoussef61@gamil.com
+
+- **Linkedin** : <a href="https://www.linkedin.com/in/tasneem-youssef-770708278"/>Linkedin</a>
