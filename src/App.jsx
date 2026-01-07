@@ -26,10 +26,9 @@ setTime("years")
 }
   }
   return (
-    <>
+    <div className='App'>
     <h3>Age calculator</h3>
       <div className='container'>
-<FormControl>
 <FormLabel className="label">birthday date</FormLabel>
       <Input
 value={birthDate}
@@ -38,10 +37,9 @@ className='date'
         type="date"
       />
    <Button  onClick={calulateAge} className='submit'>submit</Button>
-</FormControl>
-{age>0 && <div className='result'>you are <span id='age'>{age}</span> {time} old</div>}
       </div>{/* /container */}
-    </>
+{age>0 && <div className='result'>you are <span id='age'>{age}</span> {time} old</div>}
+    </div>
   )
 }
 
